@@ -1,0 +1,3 @@
+# load
+require 'sendify'
+
